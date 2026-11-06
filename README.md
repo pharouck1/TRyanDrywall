@@ -42,4 +42,4 @@ Deploy to Vercel or another Node.js host that supports Next.js App Router. Confi
 - The brief contained conflicting phone numbers and email addresses. The first Company Information set is currently used throughout: (413) 533-7862 and Timothyryan1602@gmail.com.
 - Business hours have not been supplied; the contact page asks visitors to call for availability.
 - Gallery photos are illustrative stock images, not Ryan Drywall LLC project photos. Replace the image URLs and alt text in `src/lib/company.ts` with authorized company photography when available.
-- Testimonials are not fabricated; the page identifies that actual customer feedback has not yet been provided.
+- Testimonials are omitted until actual customer feedback is provided.

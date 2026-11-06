@@ -114,10 +114,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="testimonial-section">
-        <div className="page-shell testimonial-inner"><p className="eyebrow eyebrow-light"><span /> In their own words</p><span className="quote-mark">“</span><blockquote>Customer reviews will be shared here once real feedback is provided.</blockquote><p className="testimonial-note">No testimonials have been published on this site.</p><span className="testimonial-rule" /></div>
-      </section>
-
       <section className="estimate-section section-pad" id="estimate">
         <div className="page-shell estimate-layout">
           <div className="estimate-intro"><p className="eyebrow"><span /> Tell us what you’re planning</p><h2>Let’s talk about<br /><em>your project.</em></h2><p>Share a few details and we’ll follow up to discuss the work and next steps.</p><div className="estimate-contact"><a href={`tel:${company.phoneHref}`}><Phone size={17} />{company.phone}</a><span><MapPin size={17} />Belchertown, MA</span></div></div>

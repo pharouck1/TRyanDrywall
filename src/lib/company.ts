@@ -1,8 +1,8 @@
 export const company = {
   name: "Ryan Drywall LLC",
   owner: "Tim Francis Ryan",
-  phone: "(413) 533-7862",
-  phoneHref: "+14135337862",
+  phone: "(413) 437-3671",
+  phoneHref: "+14134373671",
   email: "Timothyryan1602@gmail.com",
   address: "17 North Liberty St",
   city: "Belchertown",
